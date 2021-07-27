@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\SocketConnectionServer\bin\Debug\netcoreapp3.1\SocketConnectionServer.exe
+C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\SocketConnectionServer\bin\Debug\netcoreapp3.1\SocketConnectionServer.deps.json
+C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\SocketConnectionServer\bin\Debug\netcoreapp3.1\SocketConnectionServer.runtimeconfig.json
+C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\SocketConnectionServer\bin\Debug\netcoreapp3.1\SocketConnectionServer.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\SocketConnectionServer\bin\Debug\netcoreapp3.1\SocketConnectionServer.dll
+C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\SocketConnectionServer\bin\Debug\netcoreapp3.1\SocketConnectionServer.pdb
+C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\SocketConnectionServer\obj\Debug\netcoreapp3.1\SocketConnectionServer.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\SocketConnectionServer\obj\Debug\netcoreapp3.1\SocketConnectionServer.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\SocketConnectionServer\obj\Debug\netcoreapp3.1\SocketConnectionServer.AssemblyInfo.cs
+C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\SocketConnectionServer\obj\Debug\netcoreapp3.1\SocketConnectionServer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\SocketConnectionServer\obj\Debug\netcoreapp3.1\SocketConnectionServer.dll
+C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\SocketConnectionServer\obj\Debug\netcoreapp3.1\SocketConnectionServer.pdb
+C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\SocketConnectionServer\obj\Debug\netcoreapp3.1\SocketConnectionServer.genruntimeconfig.cache
