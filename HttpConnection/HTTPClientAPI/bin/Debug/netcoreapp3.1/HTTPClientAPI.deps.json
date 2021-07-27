@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HTTPClientAPI/1.0.0": {
+        "dependencies": {
+          "HttpWebApi": "1.0.0"
+        },
+        "runtime": {
+          "HTTPClientAPI.dll": {}
+        }
+      },
+      "HttpWebApi/1.0.0": {
+        "runtime": {
+          "HttpWebApi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HTTPClientAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HttpWebApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -4,7 +4,6 @@ C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\HttpConnection\bin\
 C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\HttpConnection\bin\Debug\netcoreapp3.1\HttpConnection.runtimeconfig.dev.json
 C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\HttpConnection\bin\Debug\netcoreapp3.1\HttpConnection.dll
 C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\HttpConnection\bin\Debug\netcoreapp3.1\HttpConnection.pdb
-C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\HttpConnection\obj\Debug\netcoreapp3.1\HttpConnection.csproj.AssemblyReference.cache
 C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\HttpConnection\obj\Debug\netcoreapp3.1\HttpConnection.AssemblyInfoInputs.cache
 C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\HttpConnection\obj\Debug\netcoreapp3.1\HttpConnection.AssemblyInfo.cs
 C:\Users\DELL\source\repos\NetworkingConcepts\HttpConnection\HttpConnection\obj\Debug\netcoreapp3.1\HttpConnection.csproj.CoreCompileInputs.cache
